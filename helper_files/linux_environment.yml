@@ -1,0 +1,13 @@
+name: damroc
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - pip
+  - pip:
+    - pybloomfiltermmap
+    - losswise
+    - sklearn
+    - lief
+    - torch
+    - matplotlib
